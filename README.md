@@ -1,4 +1,4 @@
-# Gym Management Application Frontend
+# Gym Membership Management System
 
 A modern, responsive web application for efficient gym management. This frontend project provides an intuitive interface
 for gym owners and administrators to manage members, memberships, payments, and check-ins.
