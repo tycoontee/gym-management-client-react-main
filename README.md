@@ -177,8 +177,8 @@ For any inquiries about this project, please contact:
 
 Hanif Carroll
 
-Email: [HanifCarroll@gmail.com](mailto:HanifCarroll@gmail.com)
+Email: [tycoontee14@gmail.com](tycoontee14@gmail.com)
 
-LinkedIn: https://www.linkedin.com/in/hanifcarroll
+LinkedIn: https://www.linkedin.com/in/tycoontee
 
-GitHub: https://github.com/HanifCarroll
+GitHub: https://github.com/tycoontee
