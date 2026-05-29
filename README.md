@@ -3,8 +3,6 @@
 A modern, responsive web application for efficient gym management. This frontend project provides an intuitive interface
 for gym owners and administrators to manage members, memberships, payments, and check-ins.
 
-Integrates seamlessly with
-the [backend application](https://github.com/HanifCarroll/gym-management-server-express).
 
 ## Table of Contents
 
@@ -68,7 +66,7 @@ Each module has some or all of the following components:
 1. Clone the repository:
 
    ```
-   git clone https://github.com/HanifCarroll/gym-management-client-react.git
+   git clone https://github.com/tycoontee/gym-management-client-react.git
    ```
 
 2. Navigate to the project directory:
