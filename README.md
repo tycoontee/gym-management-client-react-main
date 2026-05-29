@@ -173,7 +173,7 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 
 For any inquiries about this project, please contact:
 
-Hanif Carroll
+Tycoon-Tee
 
 Email: [tycoontee14@gmail.com](tycoontee14@gmail.com)
 
